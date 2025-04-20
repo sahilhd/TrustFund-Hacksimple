@@ -13,7 +13,7 @@ Before running the setup script, make sure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mfoltak/Hacksimple
+git clone https://github.com/sahilhd/TrustFund-Hacksimple.git
 ```
 
 2. Navigate to the project directory:
